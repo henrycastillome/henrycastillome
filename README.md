@@ -1,5 +1,15 @@
 # 💫 About Me:
-As a second-year graduate student in human-computer interaction at Pratt Institute, I am currently working on developing my programming and software engineering skills through hands-on projects and coursework. I am looking to collaborate with other developers and engineers who are working on innovative projects related to full-stack web development, user interface design, and user experience optimization. I am currently learning and expanding my knowledge in programming languages such as JavaScript, Python, CSS, HTML5, and SQL, as well as frameworks such as React, Django, Flask, and Dash. You can ask me about my experience with front-end and back-end development, my proficiency in different programming languages and frameworks, and any software engineering projects I have worked on. A fun fact about me is that I enjoy hiking and traveling, and I have hiked in several national parks across the United States.
+I am an end-to-end designer with over 11 years of experience in optimizing processes to create better user experiences. I love diving into tough problems and working closely with others to solve them.
+
+Every day, I enjoy figuring out what users need, coming up with new ideas, and making them real. Whether it’s drawing sketches or fine-tuning prototypes, I am passionate about every step of the design process from ideation to implementation.
+
+My background in engineering, focusing on digital experiences, gives me a solid and systematic way of working. And my time during my master’s in human-computer interaction taught me a lot about teamwork and self-improvement.
+
+Proficient in Python, TypeScript, and JavaScript, I bring a versatile skill set to my design work, allowing for seamless integration of design and development processes.
+
+Outside of work, I am all about sports. I played soccer in college, and for the past years, I have been learning how to play tennis. I am always up for learning something new.
+
+I am here to create experiences through innovative solutions that make a difference via collaborative work.
 
 
 ## 🌐 Socials:
