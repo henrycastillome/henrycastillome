@@ -1,13 +1,18 @@
 # 💫 About Me:
-I am an end-to-end designer with over 11 years of experience in optimizing processes to create better user experiences. I love diving into tough problems and working closely with others to solve them.
+I am an end-to-end designer with over 2+ years of experience in product design and 7+ years optimizing processes as a strategist to create better user experiences. I love diving into tough problems and working closely with others to solve them.
+
 
 Every day, I enjoy figuring out what users need, coming up with new ideas, and making them real. Whether it’s drawing sketches or fine-tuning prototypes, I am passionate about every step of the design process from ideation to implementation.
 
+
 My background in engineering, focusing on digital experiences, gives me a solid and systematic way of working. And my time during my master’s in human-computer interaction taught me a lot about teamwork and self-improvement.
+
 
 Proficient in Python, TypeScript, and JavaScript, I bring a versatile skill set to my design work, allowing for seamless integration of design and development processes.
 
+
 Outside of work, I am all about sports. I played soccer in college, and for the past years, I have been learning how to play tennis. I am always up for learning something new.
+
 
 I am here to create experiences through innovative solutions that make a difference via collaborative work.
 
