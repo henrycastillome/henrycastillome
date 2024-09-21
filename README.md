@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an end-to-end designer with over 2+ years of experience in product design and 7+ years optimizing processes as a strategist to create better user experiences. I love diving into tough problems and working closely with others to solve them.
+I am an end-to-end designer with over 8+ years of experience, specializing in data-driven solutions to create better user experiences. I love diving into tough problems and working closely with others to solve them.
 
 
 Every day, I enjoy figuring out what users need, coming up with new ideas, and making them real. Whether it’s drawing sketches or fine-tuning prototypes, I am passionate about every step of the design process from ideation to implementation.
